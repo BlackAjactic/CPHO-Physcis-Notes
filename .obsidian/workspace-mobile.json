@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "e4b2a63bbdee9cf5",
+    "type": "split",
+    "children": [
+      {
+        "id": "96d16b3032c04ba0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63bf95fa0c16eca2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "普通物理/光学/光的偏振.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "光的偏振"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7c0daa60e83ab8c5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "dd55f0db837f587b",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-folder-closed",
+          "title": "文件列表"
+        }
+      },
+      {
+        "id": "91740c797bd25ec1",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "搜索"
+        }
+      },
+      {
+        "id": "cc948c2ef2c630b7",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "标签"
+        }
+      },
+      {
+        "id": "692bf3d0c597e94e",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "书签"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "ded016e13985b6b8",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "89e82a22a2db9266",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "反向链接"
+        }
+      },
+      {
+        "id": "fba1360b3d81cbef",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "数学知识/矢量分析与场论/矢量分析.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "出链"
+        }
+      },
+      {
+        "id": "695286e40b5da9a6",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "普通物理/光学/光的偏振.md"
+          },
+          "icon": "lucide-list",
+          "title": "大纲"
+        }
+      },
+      {
+        "id": "b13483a01c9c26b3",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
+          "state": {},
+          "icon": "spreadsheet",
+          "title": "Advanced Tables"
+        }
+      }
+    ],
+    "currentTab": 2
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "random-note:开始漫游笔记": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "audio-recorder:开始/结束录音": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "63bf95fa0c16eca2",
+  "lastOpenFiles": [
+    "Tasks.md",
+    "普通物理/光学/光的偏振.md",
+    "普通物理/力学/功、能和动量.md",
+    "普通物理/力学/角动量、有心运动.md",
+    "普通物理/光学/光的干涉.md",
+    "普通物理/光学/光的衍射.md",
+    "普通物理/光学/几何光学.md",
+    "普通物理/力学/运动学.md",
+    "普通物理/力学/静力学.md",
+    "普通物理/力学/动力学.md",
+    "polarization_05.png",
+    "images/polarization_05.png",
+    "polarization_04.png",
+    "images/polarization_04.png",
+    "polarization_03 1.png",
+    "polarization_03.png",
+    "polarization_02.png",
+    "images/polarization_03.png",
+    "images/polarization_02.png",
+    "polarization_01.png",
+    "普通物理/光学",
+    "未命名.canvas",
+    "普通物理/力学/Untitled.md",
+    "普通物理/力学",
+    "计划.md",
+    "数学知识/矢量分析与场论/矢量分析.md",
+    "templates/笔记模板.md",
+    "笔记.md",
+    "费曼物理学讲义.md",
+    "理论力学.md",
+    "templates",
+    "images",
+    "Excalidraw/Drawing 2025-01-18 13.05.29.excalidraw.md",
+    "Excalidraw",
+    "tldraw/Tldraw 2025-01-18 1.03下午.md",
+    "tldraw/Tldraw 2025-01-18 1.02下午.md",
+    "tldraw",
+    "2025-01-17.md",
+    "数学知识/线性代数",
+    "数学知识/矢量分析与场论/未命名",
+    "数学知识/未命名.md",
+    "数学知识/微积分",
+    "数学知识/矢量分析与场论",
+    "数学知识/矢量分析与场论.md"
+  ]
+}
